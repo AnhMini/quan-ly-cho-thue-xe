@@ -1,0 +1,13 @@
+C:\QLTX\QL_ThueXe\QL_ThueXe\bin\Debug\QL_ThueXe.exe.config
+C:\QLTX\QL_ThueXe\QL_ThueXe\bin\Debug\QL_ThueXe.exe
+C:\QLTX\QL_ThueXe\QL_ThueXe\bin\Debug\QL_ThueXe.pdb
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.FormMain.resources
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.HoaDon.resources
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.KhachHang.resources
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.LoaiXe.resources
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.Properties.Resources.resources
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.Xe.resources
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.csproj.GenerateResource.Cache
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.exe
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.pdb
+C:\QLTX\QL_ThueXe\QL_ThueXe\obj\Debug\QL_ThueXe.csprojResolveAssemblyReference.cache
