@@ -50,7 +50,8 @@
             this.mit_HoaDon});
             this.menuStrip_1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip_1.Name = "menuStrip_1";
-            this.menuStrip_1.Size = new System.Drawing.Size(1254, 28);
+            this.menuStrip_1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip_1.Size = new System.Drawing.Size(940, 24);
             this.menuStrip_1.TabIndex = 3;
             this.menuStrip_1.Text = "menuStrip1";
             // 
@@ -58,68 +59,69 @@
             // 
             this.mit_Home.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mit_ThongTinNhom,
-            this.toolStripSeparator1,
-            this.mit_ExitAll});
+            this.mit_ExitAll,
+            this.toolStripSeparator1});
             this.mit_Home.Name = "mit_Home";
-            this.mit_Home.Size = new System.Drawing.Size(64, 24);
+            this.mit_Home.Size = new System.Drawing.Size(54, 20);
             this.mit_Home.Text = "HOME";
             // 
             // mit_ThongTinNhom
             // 
             this.mit_ThongTinNhom.Name = "mit_ThongTinNhom";
-            this.mit_ThongTinNhom.Size = new System.Drawing.Size(189, 24);
+            this.mit_ThongTinNhom.Size = new System.Drawing.Size(166, 22);
             this.mit_ThongTinNhom.Text = "Thông Tin Nhóm";
             this.mit_ThongTinNhom.Click += new System.EventHandler(this.mit_ThongTinNhom_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(186, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(163, 6);
             // 
             // mit_ExitAll
             // 
             this.mit_ExitAll.Name = "mit_ExitAll";
-            this.mit_ExitAll.Size = new System.Drawing.Size(189, 24);
+            this.mit_ExitAll.Size = new System.Drawing.Size(166, 22);
             this.mit_ExitAll.Text = "Exit";
             this.mit_ExitAll.Click += new System.EventHandler(this.mit_ExitAll_Click);
             // 
             // mit_KhachHang
             // 
             this.mit_KhachHang.Name = "mit_KhachHang";
-            this.mit_KhachHang.Size = new System.Drawing.Size(117, 24);
+            this.mit_KhachHang.Size = new System.Drawing.Size(97, 20);
             this.mit_KhachHang.Text = "KHÁCH HÀNG";
             this.mit_KhachHang.Click += new System.EventHandler(this.mit_KhachHang_Click);
             // 
             // mit_LoaiXe
             // 
             this.mit_LoaiXe.Name = "mit_LoaiXe";
-            this.mit_LoaiXe.Size = new System.Drawing.Size(73, 24);
+            this.mit_LoaiXe.Size = new System.Drawing.Size(61, 20);
             this.mit_LoaiXe.Text = "LOẠI XE";
             this.mit_LoaiXe.Click += new System.EventHandler(this.mit_LoaiXe_Click);
             // 
             // mit_Xe
             // 
             this.mit_Xe.Name = "mit_Xe";
-            this.mit_Xe.Size = new System.Drawing.Size(38, 24);
+            this.mit_Xe.Size = new System.Drawing.Size(32, 20);
             this.mit_Xe.Text = "XE";
             this.mit_Xe.Click += new System.EventHandler(this.mit_Xe_Click);
             // 
             // mit_HoaDon
             // 
             this.mit_HoaDon.Name = "mit_HoaDon";
-            this.mit_HoaDon.Size = new System.Drawing.Size(90, 24);
+            this.mit_HoaDon.Size = new System.Drawing.Size(74, 20);
             this.mit_HoaDon.Text = "HÓA ĐƠN";
             this.mit_HoaDon.Click += new System.EventHandler(this.mit_HoaDon_Click);
             // 
             // FormMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1254, 1049);
+            this.ClientSize = new System.Drawing.Size(940, 610);
             this.Controls.Add(this.menuStrip_1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip_1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormMain";
