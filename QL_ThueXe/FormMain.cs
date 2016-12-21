@@ -210,7 +210,7 @@ namespace QL_ThueXe
 
         private void mit_ExitAll_Click(object sender, EventArgs e)
         {
-            // chinh sua ma nguon
+            // chinh s ua ma nguon
             try
             {
                 if (frm_KhachHang.Visible == true || frm_HoaDon.Visible == true || frm_LoaiXe.Visible == true || frm_Xe.Visible == true)

@@ -386,6 +386,7 @@ namespace QL_ThueXe
 
         private void btn_TimKiem_Click(object sender, EventArgs e)
         {
+            // Tim kiem xe
             string sql_TimKiem;
             DataTable dt_TimKiem = new DataTable();
             try
